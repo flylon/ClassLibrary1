@@ -8,6 +8,6 @@ namespace ClassLibrary1
 {
     public class Class1
     {
-        // 建立2312261723的 branch
+        // 建立2312261723的 branch後，合併到master
     }
 }
