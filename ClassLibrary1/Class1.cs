@@ -8,6 +8,6 @@ namespace ClassLibrary1
 {
     public class Class1
     {
-        // b01
+        // m02
     }
 }
